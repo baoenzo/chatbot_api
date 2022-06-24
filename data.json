@@ -7,7 +7,7 @@
   {
     "Input": "/help",
     "Output": "Một số lệnh bạn có thể sử dụng.",
-    "Sub": "/dstengame: lấy danh sách tên viết tắt của các game trên web. Cần thiết cho các lệnh ở phía sau|/thongtin [tên game]: hiển thị thông tin của dự án game hiện tại|/huongdan: Một số thông tin có thể giúp ích cho bạn.|/lienhe: Một số thông tin liên lạc"
+    "Sub": "/dstengame: lấy danh sách tên viết tắt của các game trên web. Cần thiết cho các lệnh ở phía sau|/thongtin [tên game]: hiển thị thông tin của dự án game hiện tại|/huongdan: Một số thông tin có thể giúp ích cho bạn.|/lienhe: Một số thông tin liên lạc|/clear: Làm mới đoạn chat"
   },
   {
     "Input": "Ai tạo ra mày thế",
