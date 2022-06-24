@@ -1,12 +1,32 @@
 [
-   {
-      "Input":"Chào,Hello,Lô,Hi,Xin chào, chao xìn,này ,ê",
-      "Output":"Chào bạn, Bot đẹp trai có thể giúp gì cho bạn ?",
-      "Sub":"Gõ /help để biết thêm các lệnh chi tiết nhé bạn tui hỡi."
-   },
-   {
-      "Input":"Ai tạo ra mày thế",
-      "Output":"Tất nhiên là baoenzo siêu cấp vũ trụ rồi!.",
-      "Sub":""
-   }
+  {
+    "Input": "Chào,Hello,Lô,Hi,Xin chào, chao xìn,này ,ê",
+    "Output": "Chào bạn, Bot đẹp trai có thể giúp gì cho bạn ?",
+    "Sub": "Gõ /help để biết thêm các lệnh chi tiết nhé bạn tui hỡi."
+  },
+  {
+    "Input": "/help",
+    "Output": "Một số lệnh bạn có thể sử dụng.",
+    "Sub": "/dstengame-lấy danh sách tên viết tắt của các game trên web. Cần thiết cho các lệnh ở phía sau|/thongtin [tên game]-hiển thị thông tin của dự án game hiện tại|/huongdan-Một số thông tin có thể giúp ích cho bạn."
+  },
+  {
+    "Input": "Ai tạo ra mày thế",
+    "Output": "Tất nhiên là baoenzo siêu cấp vũ trụ rồi!.",
+    "Sub": ""
+  },
+  {
+    "Input": "/dstengame",
+    "Output": "Dưới đây là danh sách của toàn bộ tên viết tắt của các game trên webiste",
+    "Sub": ""
+  },
+  {
+    "Input": "/thongtin [idgame]",
+    "Output": "Tiến độ donate của game hiện tại là 100/1000.",
+    "Sub": ""
+  },
+  {
+    "Input": "Ai tạo ra mày thế",
+    "Output": "Tất nhiên là baoenzo siêu cấp vũ trụ rồi!.",
+    "Sub": ""
+  }
 ]
