@@ -1,12 +1,12 @@
 [
-  {
-    "Input": "Chào,Hello,Lô,Hi,Xin chào, chao xìn,này ,ê",
-    "Output": "Chào bạn, Bot đẹp trai có thể giúp gì cho bạn ?",
-	"Sub": "Gõ /help để biết thêm các lệnh chi tiết nhé bạn tui hỡi."
-  },
-  {
-   "Input": "Ai tạo ra mày thế",
-    "Output": "Tất nhiên là baoenzo siêu cấp vũ trụ rồi!."
-  }
- 
+   {
+      "Input":"Chào,Hello,Lô,Hi,Xin chào, chao xìn,này ,ê",
+      "Output":"Chào bạn, Bot đẹp trai có thể giúp gì cho bạn ?",
+      "Sub":"Gõ /help để biết thêm các lệnh chi tiết nhé bạn tui hỡi."
+   },
+   {
+      "Input":"Ai tạo ra mày thế",
+      "Output":"Tất nhiên là baoenzo siêu cấp vũ trụ rồi!.",
+      "Sub":""
+   }
 ]
