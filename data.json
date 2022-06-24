@@ -7,7 +7,7 @@
   {
     "Input": "/help",
     "Output": "Một số lệnh bạn có thể sử dụng.",
-    "Sub": "/dstengame-lấy danh sách tên viết tắt của các game trên web. Cần thiết cho các lệnh ở phía sau|/thongtin [tên game]-hiển thị thông tin của dự án game hiện tại|/huongdan-Một số thông tin có thể giúp ích cho bạn."
+    "Sub": "/dstengame: lấy danh sách tên viết tắt của các game trên web. Cần thiết cho các lệnh ở phía sau|/thongtin [tên game]: hiển thị thông tin của dự án game hiện tại|/huongdan: Một số thông tin có thể giúp ích cho bạn.|/lienhe: Một số thông tin liên lạc"
   },
   {
     "Input": "Ai tạo ra mày thế",
@@ -343,5 +343,15 @@
     "Input": "/thongtin heavyrain",
     "Output": "Dưới đây là một số thông tin của dự án Heavy Rain",
     "Sub": "Tiến độ: 95%|Số donate cần thiết để hoàn thiện: 0 VNĐ"
+  },
+  {
+    "Input": "/huongdan",
+    "Output": "Để donate các bạn bấm vào mục Donate ở đầu trang. Sau đó làm theo hướng dẫn|Một donate sẽ được duyệt trong vòng 24-48h có thể lâu hơn|Các bạn có thể đọc kỹ hơn ở mục thông tin chung",
+    "Sub": ""
+  },
+  {
+    "Input": "/lienhe",
+    "Output": "Email giải quyết các vấn đề donate: baoenzo2@gmail.com|Discord:https://discord.com/invite/gS65gKR|Facebook: https://www.facebook.com/gamethuanviet",
+    "Sub": ""
   }
 ]
